@@ -7,3 +7,5 @@ A sample application using OPENCV(EMGUCV )to detect and recognize face.
 <li>Create a table named faces in the database with columns id(int), personName(varchar),faceSample(blob),personID(int)</li>
 <li>Thats it ,build and run the project</li>
 </ul>
+
+http://www.emgu.com/forum/viewtopic.php?t=4175
